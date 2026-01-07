@@ -1,4 +1,4 @@
-<h3 align="center">⚡ A <i><b>Responsive Landing Page</i></b> for a Workshopo⚡</h3>
+<h3 align="center">⚡ A <i><b>Responsive Landing Page</i></b> for a Workshop⚡</h3>
 <p align="center"><i>For study purposes only.<i></p>
 
 <hr>
